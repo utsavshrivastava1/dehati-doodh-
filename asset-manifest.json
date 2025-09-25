@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14077212.css",
+    "main.js": "/static/js/main.5e7d9d11.js",
+    "static/js/453.f35b1f7b.chunk.js": "/static/js/453.f35b1f7b.chunk.js",
+    "static/media/nochemicals.png": "/static/media/nochemicals.4d81720030dc81a3241e.png",
+    "static/media/logoutsav.png": "/static/media/logoutsav.6ab59b7a7043f27324d7.png",
+    "static/media/paneer.png": "/static/media/paneer.49ba5596ba0186f727c7.png",
+    "static/media/A2milk.png": "/static/media/A2milk.31962bcb9790255a3f19.png",
+    "static/media/milkBottle.png": "/static/media/milkBottle.31962bcb9790255a3f19.png",
+    "static/media/zeroplasticuse.jpg": "/static/media/zeroplasticuse.7d401efb8b5263a727ea.jpg",
+    "static/media/indianfarmer.png": "/static/media/indianfarmer.95fbb1bf4fcf018773a4.png",
+    "static/media/testingkit.png": "/static/media/testingkit.c8a2b8f391a0d6ef548b.png",
+    "static/media/labtested.png": "/static/media/labtested.661769b383d1de0a015c.png",
+    "static/media/ghee.png": "/static/media/ghee.cd8100f0404776a7bba9.png",
+    "static/media/deliveyboy.webp": "/static/media/deliveyboy.12b7fc63897cce0dca79.webp",
+    "static/media/dahi.png": "/static/media/dahi.4ffccc0828ce06026ac4.png",
+    "static/media/paper-background_53876-147734.avif": "/static/media/paper-background_53876-147734.e4aa8e89f57748c9c747.avif",
+    "index.html": "/index.html",
+    "main.14077212.css.map": "/static/css/main.14077212.css.map",
+    "main.5e7d9d11.js.map": "/static/js/main.5e7d9d11.js.map",
+    "453.f35b1f7b.chunk.js.map": "/static/js/453.f35b1f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14077212.css",
+    "static/js/main.5e7d9d11.js"
+  ]
+}
